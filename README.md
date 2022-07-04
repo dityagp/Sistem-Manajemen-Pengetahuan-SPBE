@@ -13,7 +13,9 @@ Sistem Pemerintahan Berbasis Elektronik yang selanjutnya disingkat SPBE adalah p
 1. **Super Admin**
     - NIP      : 223420020
     - Password : superadmin123
-2. **Admin (ongoing)**
+2. **Admin**
     - NIP      : 223420021
     - Password : admin123
-3. **User (ongoing)**
+3. **User**
+    - NIP      : 223420022
+    - Password : user12345
